@@ -1,5 +1,5 @@
 <template>
-  <Todo/>ndkjsdj
+  <Todo/>
 </template>
 <script>
 import FirstPage from "./components/FirstPage.vue";
